@@ -1,0 +1,19 @@
+{
+  "name": "synaptic_creature",
+  "version": "1.0.0",
+  "description": "Synaptic creatures",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cat-Of-Devil/creature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cat-Of-Devil/creature/issues"
+  },
+  "homepage": "https://github.com/Cat-Of-Devil/creature#readme"
+}
